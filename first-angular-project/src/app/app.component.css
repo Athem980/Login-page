@@ -1,0 +1,26 @@
+.hello {
+  color: red;
+}
+
+.login {
+  width: 60%;
+  height: 60%;
+}
+
+.logo {
+  height: fit-content;
+  width: 50%;
+}
+.image {
+  height: 50vh;
+  width: 22vw;
+}
+
+.welcome {
+  height: 100%;
+
+  width: 50%;
+}
+.next {
+  width: 100%;
+}
