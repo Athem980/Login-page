@@ -11,4 +11,5 @@
  ######        Install the dependencies:
  ######        Navigate to the project directory and install the required dependencies using npm: 
               `npm install`
+              `ng serve`
 
